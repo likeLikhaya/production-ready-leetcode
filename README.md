@@ -1,2 +1,2 @@
 # production-ready-leetcode
-Just getting my daily coding practice in and making sure my GitHub tracker stays green
+This repository contains my LeetCode solutions implemented in TypeScript. It serves as a record of consistent practice and improvement in algorithms and data structures.
